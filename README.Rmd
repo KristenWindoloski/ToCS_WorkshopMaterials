@@ -2,15 +2,43 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 # ToCS Workshop Repository
 
 This repository contains all relevant materials for the workshop on the ToCS 
-(Toxicokinetic Chemical Simulator) graphical user interface (GUI). There are four 
-sessions of the workshop, and each with their PowerPoint slide decks located
-under the 'Slides' folder. Any additional session materials (csv, xlsx, zip, and
-R files) are located in the corresponding folder.
+(Toxicokinetic Chemical Simulator) graphical user interface (GUI). For more 
+information and details on the ToCS software, please see its GitHub repository at
+<https://github.com/KristenWindoloski/ToCS>. 
+
+There are four sessions of the workshop.
+
+Session 1:
+
+  * An introduction to ToCS session providing an overview/background 
+  of the software, explaining how to select chemicals, and demoing how to upload
+  your own chemical data.
+  
+Session 2:
+
+  * A walk through the Concentration-Time Profiles (CTP) module within ToCS. This includes
+  a brief background on PBTK modeling, the available inputs and outputs of the 
+  CTP module, and two demo examples of the module.
+  
+Session 3: 
+
+  * A walk through the In Vitro to In Vivo Extrapolation (IVIVE) module within 
+  ToCS. This includes a brief background on IVIVE, the available inputs and 
+  outputs of the IVIVE module, and two demo examples of the module.
+
+Session 4:
+
+  * A walk through the Steady State (SS) Concentrations module and the Parameter
+  Calculations module within ToCS. This includes a brief background, the available 
+  inputs and outputs, and one demo example of each module.
+
+The slides for each workshop session are located under the 'Slides' folder. 
+Any additional materials used in each session (csv, xlsx, zip, and R files) are 
+located in the corresponding session folder. Video recordings of each session will 
+be posted at a later date.
 
 ## Getting Help
 
